@@ -10,7 +10,7 @@ O aplicativo permite ao usuário visualizar informações de filmes, como títul
 * Axios para requisições à API
 * Expo como plataforma de desenvolvimento
 
-## Instalação e Execução
+## :electric_plug:Instalação e Execução
 Para instalar e executar o projeto, siga os seguintes passos:
 
 1. Clone este repositório:
@@ -32,5 +32,5 @@ Escaneie o QR Code com o aplicativo Expo Go em seu dispositivo móvel ou utilize
 ## 🦾Contribuição
 Este é um projeto pessoal e não estou aceitando contribuições no momento. No entanto, sinta-se livre para fazer um fork do repositório e criar seu próprio aplicativo de catálogo de filmes utilizando a API mencionada e o React Native. Se você encontrar algum problema ou tiver alguma sugestão de melhoria, abra uma issue no repositório para discutirmos.
 
-## 👽Contato
+## :alien:Contato
 gabriel_nobresantos@hotmail.com
